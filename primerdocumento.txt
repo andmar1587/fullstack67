@@ -1,6 +1,10 @@
 primera modificación
+<<<<<<< HEAD
 segunda modificación
 tercera modificación
 cuarta modificación
 quinta modificación
 sexta modificación
+=======
+segunda modificación
+>>>>>>> parent of 705df3a... modificacion 3
